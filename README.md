@@ -1,6 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Alberto Sánchez 👋
 
-## Estoy formandome es la filosofía DevOps
+## Estoy formándome es la filosofía DevOps
 
 - ⚡ Busco colaborar con otros creadores de contenido
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
